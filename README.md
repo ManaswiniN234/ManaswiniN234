@@ -3,7 +3,7 @@ With a focus on building scalable web applications, designing intuitive user exp
 
 ## 🔭 Professional Focus
 - **Current Role**: UI/UX Designer at Wear60
-- **Tech Stack**: React, JavaScript, Node.js, Python, C++, MongoDB
+- **Tech Stack**: React, JavaScript, Node.js, Java, Python, C++, MongoDB
 - **Expertise**: Web Development, UI/UX Design, System Architecture, Problem Solving, DSA
 - **Industries**: Technology, Web Applications, Software Solutions, Digital Design
 
@@ -42,7 +42,6 @@ With a focus on building scalable web applications, designing intuitive user exp
 ### Database & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ### Development Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
