@@ -8,6 +8,7 @@ With a focus on building scalable web applications, designing intuitive user exp
 - **Industries**: Technology, Web Applications, Software Solutions, Digital Design
 
 ## 🚀 Current Projects & Initiatives
+- Currently building an AI education counsellor called WayMax with my team Code Red.
 - Designing the Wear60 application
 - Building scalable web applications using React and Node.js
 - Implementing responsive design patterns with Tailwind CSS & Bootstrap
